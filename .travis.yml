@@ -1,3 +1,4 @@
 language: ruby
 compiler: gcc
 script: make dep clean test 
+sudo: required
